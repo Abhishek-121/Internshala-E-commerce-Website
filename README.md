@@ -44,7 +44,7 @@ PHP/
 └──  success.php
 SETUP
 Start the Apache and MySQL modules using the XAMPP controller. 2.Open the phpMyAdmin and create a database "lifestylestore". 3.Import the lifestylestore.sql file present in the zip folder. 4.Open the htdocs folder in the xampp folder. Copy paste the folder lifestylestore. 5.Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
-CONTACT: amitdeka13@gmail.com
+CONTACT: abhishek69744maheshwari@gmail.com
 
 LICENSE AND COPYRIGHT: All the images used for this project are representational images. Internshala holds no copyright over these images. TRADEMARKS:
 
